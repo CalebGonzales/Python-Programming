@@ -1,0 +1,10 @@
+inputOne=2
+inputTwo=5
+result=inputOne+inputTwo
+print("The sum of given numbers is",result)
+result=inputOne-inputTwo
+print("The difference of given numbers is", result)
+result=inputOne*inputTwo
+print("The produt of given numbers is", result)
+result=inputOne/inputTwo
+print("The quotient of given numbers is", result)
